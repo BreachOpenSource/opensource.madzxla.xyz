@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./shared-lib.DCLza4r8.mjs";t();export{e as __FramerMetadata__,n as default};
